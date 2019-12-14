@@ -1,5 +1,5 @@
 # baum-welch
-An implementation of the Baum-Welch algorithm
+An implementation of the Baum-Welch algorithm in Matlab
 
 Given the output of a discrete hidden Markov model, this code estimates the 
 parameters (starting probabilities, transition probabilities, emission probabilities) of
